@@ -1,27 +1,17 @@
-# Welcome to the Python Track
-
 ## My Name
+print("Welcome to the Python Track", Prajwal r kolekar)
 
-Write your name.
-
-## What I Learned in Foundation Month
-
-Write at least three things you learned.
+## Write 3 points you understand in foundatation class
+print("i know how to build programming logic")
+print("i know python basics")
+print("i know problem solving")
 
 ## Why I Selected Python
-
-Write your reason in your own words.
+print("i choosen python because compare to java python syntax is simple and i am from the branch os AIML and python is useful to it and nowdays startup company is using python for work")
 
 ## My Career Goal
-
-Write the role you want to achieve.
+print("My Carrier Goal is Python Developer)
 
 ## What I Understood Today
+print("i understand how to push the code to github and write code in antigravity and understand littlebit about pushing the code and adding the code to github")
 
-Complete these sentences:
-
-Programming means:
-
-Python is:
-
-In this track, I will learn:
